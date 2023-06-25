@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="84.856041mm"
+   height="90.04525mm"
+   viewBox="0 0 84.856041 90.04525"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="tri-2.svg"
+   inkscape:dataloss="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4503086"
+     inkscape:cx="292.00681"
+     inkscape:cy="443.69866"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.220331,-56.146475)">
+    <path
+       sodipodi:type="star"
+       style="fill:#000080;stroke:#dd55ff;stroke-width:1.665;stroke-opacity:1"
+       id="path1063"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="129.70946"
+       sodipodi:cy="65.675674"
+       sodipodi:r1="42.910416"
+       sodipodi:r2="21.455212"
+       sodipodi:arg1="0.96982275"
+       sodipodi:arg2="2.0170203"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 153.97297,101.06756 120.4502,85.030059 86.927427,68.992547 117.5777,47.979727 l 30.65028,-21.012814 2.8725,37.050325 z"
+       inkscape:transform-center-x="11.281233"
+       inkscape:transform-center-y="-1.9400183"
+       transform="matrix(1.2183727,0,0,1.1697852,-22.667147,26.357959)"
+       inkscape:export-filename="Trian-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

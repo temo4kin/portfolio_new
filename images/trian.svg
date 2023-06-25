@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="65.733681mm"
+   height="64.058311mm"
+   viewBox="0 0 65.733681 64.058311"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="tri-2.svg"
+   inkscape:dataloss="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4503086"
+     inkscape:cx="292.00681"
+     inkscape:cy="443.69866"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient926">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop924" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient926"
+       id="linearGradient928"
+       x1="3.8314214"
+       y1="45.433674"
+       x2="43.988079"
+       y2="52.515041"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.4744894,-53.470416)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;stroke:url(#linearGradient928);stroke-width:1.665"
+       id="path184"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="24.263514"
+       sodipodi:cy="57.101353"
+       sodipodi:r1="23.619186"
+       sodipodi:r2="11.809594"
+       sodipodi:arg1="0.67594721"
+       sodipodi:arg2="1.7231448"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 42.689188,71.878379 22.471292,68.774161 2.2533967,65.669942 15.050676,49.712839 l 12.79728,-15.957101 7.420617,19.06132 z"
+       inkscape:transform-center-x="7.5712469"
+       inkscape:transform-center-y="2.4681397"
+       transform="matrix(1.5634891,0.27371029,-0.29248779,1.4631143,26.76152,-1.2016523)"
+       inkscape:export-filename="trian.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="Logo-2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="-180.08475"
+     inkscape:cy="502.11864"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title
+     id="title2">Artboard</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs11" />
+  <g
+     id="g2717"
+     inkscape:export-filename="Logo-TG_grey.svg"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <circle
+       id="Oval"
+       fill="url(#linearGradient-1)"
+       cx="500"
+       cy="500"
+       r="500"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       d="m 120.97873,493.78601 c 206.04425,-89.77024 343.43938,-148.95224 412.18535,-177.54606 196.28369,-81.64118 237.06975,-95.82314 263.65355,-96.29143 5.84685,-0.10305 18.92,1.34604 27.38823,8.21743 7.1504,5.80205 9.11775,13.63982 10.0592,19.1408 0.94145,5.50099 2.11378,18.0324 1.18188,27.82406 -10.63669,111.76054 -56.66146,382.97391 -80.07623,508.14765 -9.90767,52.96569 -29.41619,70.72481 -48.30269,72.46279 -41.04475,3.77699 -72.21225,-27.12524 -111.9661,-53.18437 -62.2069,-40.77741 -97.34984,-66.16149 -157.73243,-105.95271 -69.7825,-45.98564 -24.5454,-71.26015 15.22345,-112.56578 10.4077,-10.80986 191.25176,-175.30152 194.75201,-190.22348 0.43775,-1.86625 0.84402,-8.82272 -3.28869,-12.49599 -4.13272,-3.67326 -10.23224,-2.41715 -14.63384,-1.41814 -6.23912,1.41603 -105.61546,67.10011 -298.12902,197.05221 -28.20765,19.36954 -53.75727,28.80704 -76.64882,28.31249 -25.23612,-0.54522 -73.7803,-14.2689 -109.86789,-25.99955 -44.26292,-14.38812 -79.44221,-21.99524 -76.37887,-46.43073 1.59557,-12.72751 19.12254,-25.74392 52.58091,-39.04919 z"
+       id="Path-3"
+       fill="#ffffff"
+       style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1.41359" />
+  </g>
+  <metadata
+     id="metadata330">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Artboard</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
