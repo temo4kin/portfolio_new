@@ -5,15 +5,6 @@ body{
                 url(images/trian.svg) 5% -15% no-repeat,
                 linear-gradient(135deg, rgb(0, 0, 0) 46%, rgb(65, 65, 65), rgb(0, 0, 0));
 }
-a{
-    color: rgb(204, 204, 204);
-    text-decoration: none;
-    border-bottom: 1px dashed rgb(204, 204, 204);
-}
-a:hover{
-    color: rgb(255, 255, 255);
-    border-bottom: 1px dotted rgb(255, 255, 255);
-}
 
 .page-grid{
     display: grid;
@@ -23,10 +14,11 @@ a:hover{
         "footer";
     grid-template-rows: 15% 1fr 10%;
     grid-template-columns: 1fr;
-    height: 100vh;
+    height: 100%;
     margin: 0 auto;
     grid-gap: 10px;
     box-sizing: border-box;
+    #border: 1px solid blue;
 }
 
 .pageHeader{
@@ -50,6 +42,10 @@ a:hover{
 
 .pageFooter{
     grid-area: footer;
+    position: fixed;
+    bottom: 1px;
+    width: 98%;
+    height: 7.5%;
     margin-bottom: 1%;
     margin-left: 1%;
     margin-right: 1%;
@@ -63,13 +59,18 @@ a:hover{
     #border: 1px solid blue;
 }
 
-header, footer, article, div {
+.pageHeader, .pageFooter, .mainArticle div {
     #padding: 20px;
     border-radius: 15px;
 }
 
 .pageTitle{
     margin: .8% 0;
+}
+
+.pageTitle a{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
 }
 
 .pageTitle h1{
@@ -91,7 +92,17 @@ header, footer, article, div {
 .itemMenu{
     border: 0px solid;
     text-align: center;
-    font-size: .8em;
+    font-size: .9em;
+}
+
+.mainArticle a{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+    border-bottom: 1px dashed rgb(204, 204, 204);
+}
+.mainArticle a:hover{
+    color: rgb(255, 255, 255);
+    border-bottom: 1px dotted rgb(255, 255, 255);
 }
 
 .footerMenu{
@@ -101,6 +112,11 @@ header, footer, article, div {
 .credits{
     text-align: center;
     padding-top: .5%
+}
+
+.credits a{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
 }
 
 .logo{
@@ -134,7 +150,7 @@ header, footer, article, div {
     margin-left: -3.9%;
     padding: 20px 20px;
     width: 93%;
-    height: 85%;
+    height: 87%;
     border: 1px solid rgb(65, 65, 65);
     background: rgba(0, 0, 0, .3);
     backdrop-filter: blur(15px);
@@ -147,12 +163,6 @@ header, footer, article, div {
     border-radius: 15px;
 }
 
-.textMe h1{
-    color: rgb(204, 204, 204);
-    font-size: 2.6em;
-    margin: 15px 0 0 15px;
-}
-
 .textMe hr{
     color: rgb(204, 204, 204);
     width: 50%;
@@ -160,6 +170,12 @@ header, footer, article, div {
 }
 
 .textMe h2{
+    color: rgb(204, 204, 204);
+    font-size: 2.4em;
+    margin: 15px 0 0 15px;
+}
+
+.textMe h3{
     color: rgb(204, 204, 204);
     font-size: 1.8em;
     margin: 1.9% 1.5%;
@@ -183,7 +199,11 @@ header, footer, article, div {
     
     .pageTitle{
     margin: 3.8% 0;
-}
+    }
+    
+    .pageFooter{
+        height: 20%;
+    }
     
     .Menu, .credits{
         display: none;
@@ -197,5 +217,9 @@ header, footer, article, div {
         №padding-top: 3.9%;
         margin: 0 auto;
         grid-gap: 1px;
-}
+    }
+    
+    .textMe{
+        height: 90%;
+    }
 }
